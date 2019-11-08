@@ -34,8 +34,7 @@ while i > 0:
         print("URL acceptable")
 
 def check_if_wp(urlx):
-    """This function checks the version of
-    the wordpress site"""
+    """This function checks if the website provided is wordpress or not"""
 
     if ((urlx[-1]) == "/"):
         urlz = "readme.html"
