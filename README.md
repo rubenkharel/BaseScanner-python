@@ -1,2 +1,2 @@
 # BaseScannerxyz
-ddd
+This is a beta project. 
