@@ -1,6 +1,5 @@
 
-=======
-# BaseScannerxyz
+# BaseScannerV1.0
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
  
  BaseScanner is made up of basic python programming with webscrapping on eyeball. BaseScanner can pull out some basic informations of the target such as user enumeration ,sub-domains enumeration and themes & plugins listings . We have used BeautifulSoup and Requests for webscrapping along with other python libraries so make sure to install the requirements before firing up the tool. 
